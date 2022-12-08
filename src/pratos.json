@@ -1,0 +1,40 @@
+{
+    "pratos": [
+      {
+        "id": 1,
+        "name": "StarTaco",
+        "url": "https://img.freepik.com/vetores-gratis/astronauta-dormindo-na-ilustracao-do-icone-do-vetor-dos-desenhos-animados-do-taco-food-conceito-de-icone-de-comida-de-ciencia-isolado-vetor-premium-estilo-flat-cartoon_138676-3368.jpg?w=826&t=st=1670454816~exp=1670455416~hmac=7094eb2607802a5148c18c2b851047626153089e52443cd5d2ec77410bea13d6",
+        "price": 25
+      },
+      {
+        "id": 2,
+        "name": "StarBurguer",
+        "url": "https://img.freepik.com/vetores-gratis/astronauta-fofo-comendo-hamburguer-dos-desenhos-animados-icone-ilustracao-vetorial-space-food-icon_138676-1988.jpg?w=826&t=st=1670454821~exp=1670455421~hmac=873f5619a69e09b958211f2ac1ef2d311522baeaedf4a41f6fb15adb9fa3306a",
+        "price": 45
+      },
+      {
+        "id": 3,
+        "name": "StarSushi",
+        "url": "https://img.freepik.com/vetores-gratis/astronauta-bonito-com-ilustracao-do-icone-do-vetor-dos-desenhos-animados-de-sushi-salmon-conceito-de-icone-de-comida-de-ciencia-isolado-vetor-premium-estilo-flat-cartoon_138676-3321.jpg?w=826&t=st=1670454837~exp=1670455437~hmac=dce4994c09ffe6ed9883646cbd495564c1180b9164bf1a286ebb3dd887df2a3f",
+        "price": 30
+      },
+      {
+        "id": 4,
+        "name": "StarChurras",
+        "url": "https://img.freepik.com/vetores-gratis/chef-de-astronauta-bonito-com-ilustracao-de-icone-de-vetor-de-desenhos-animados-de-carne-grelhada-conceito-de-icone-de-comida-de-ciencia-isolado-vetor-premium-estilo-de-desenho-animado-plano_138676-4139.jpg?w=826&t=st=1670454843~exp=1670455443~hmac=23c5233069bf2fedf2c8fe7dada63e39cd3274a47cb6600a59ee47a67650fa5d",
+        "price": 50
+      },
+      {
+        "id": 5,
+        "name": "StarLamen",
+        "url": "https://img.freepik.com/vetores-gratis/bonito-astronauta-chef-cooking-ilustracao-dos-desenhos-animados-conceito-de-icone-de-ciencia-alimentar-estilo-flat-cartoon_138676-2010.jpg?w=826&t=st=1670454844~exp=1670455444~hmac=d1e912a1b6acb54e7a4de352be9477bb9546b204d8da3b2e3d92dcc18b30b8dd",
+        "price": 40
+      },
+      {
+        "id": 6,
+        "name": "StarComboTaco",
+        "url": "https://img.freepik.com/vetores-gratis/astronauta-bonito-com-ilustracao-dos-desenhos-animados-de-taco-e-refrigerante-conceito-de-comida-e-bebida-da-ciencia-estilo-flat-cartoon_138676-2009.jpg?w=826&t=st=1670454847~exp=1670455447~hmac=4f0e6d64a1f289611ee7f61dfe3edd650eb47da51e51fff5fdb7a407c1c2f594",
+        "price": 60
+      }
+    ]
+  }
